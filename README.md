@@ -6,7 +6,9 @@ The website has been styles with custom CSS styles.
 
 **To run the the site**
 <br>
-In Terminal execute: npm start
+*In Terminal execute:* <br>
+npm install (install the node modules) <br>
+npm start (run the site) <br>
 
 **Output**
 <br>
